@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yogsh1
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... javascript, node js, express
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... @i_yogsh (instagram)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... i learn Japanese.
 
