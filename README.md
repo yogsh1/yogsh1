@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... javascript, node.js, express.js, mongodb, tailwindcss, React.js...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... [@i_yogsh (instagram)](https://www.youtube.com/@i_yogsh)
+- 📫 SNS ... [(Youtube)](https://www.youtube.com/@i_yogsh)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I Learn Japanese Everyday.
 
