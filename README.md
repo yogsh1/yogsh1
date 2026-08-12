@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... javascript, typescript, tailwindcss, React.js... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 SNS ... [(Youtube)](https://www.youtube.com/@i_yogsh)
+- ⭐ Leetcode: https://leetcode.com/u/yogsh_sama/
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I Learn Japanese Everyday.
 
